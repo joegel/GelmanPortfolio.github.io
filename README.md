@@ -3,12 +3,12 @@ This is a test to see if I _can_ build a site from scratch. _Should_ I have? Pro
 
 ## Progress Log
 
-### Goals for 9.11.21
+### Goals for week of 9.12.21-9.17.21
 - Figure out how to get the responsive navbar working
 - Redo the Image Slider on project pages to actually work
   - Likely need to learn some JavaScript to do that (why not dive down that rabbit hole?)
 
-### Goals for week of 9.12.21-9.17.21
+### Goals for September
 - Clean up the markup/styling so it's slimmer and more logical
 - Add content for the rest of portfolio pages (at least prelim content)
 - Look into building out Blog (maybe using Blogger? not sure, need to find references)

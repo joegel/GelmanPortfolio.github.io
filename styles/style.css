@@ -81,7 +81,7 @@ header {
   display: flex;
   flex-direction: row;
   list-style: none;
-  align-content: center;
+  align-self: center;
 }
 
 .head-wrap li {

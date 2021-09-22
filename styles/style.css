@@ -20,6 +20,11 @@ section.bio {
     padding: 0 1rem;
 }
 
+nav {
+    display: flex;
+    align-content: center;
+}
+
 .bio h2 {
     font-weight: 100;
 }
